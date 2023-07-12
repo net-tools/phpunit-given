@@ -15,6 +15,11 @@
             "email": "olivier.laviale@gmail.com",
             "homepage": "https://olvlvl.com/",
             "role": "Developer"
+        },
+        {
+            "name": "Pierre",
+            "email": "dev@nettools.ovh",
+            "role": "Developer"
         }
     ],
     "support": {
@@ -29,7 +34,7 @@
     "prefer-dist": true,
     "require": {
         "php": ">=8.0",
-        "phpunit/phpunit": "^9.0"
+        "phpunit/phpunit": "^10.0"
     },
     "require-dev": {
         "phpstan/phpstan": "^1.9"
