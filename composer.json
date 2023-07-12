@@ -1,5 +1,5 @@
 {
-    "name": "nettools/phpunit-given",
+    "name": "net-tools/phpunit-given",
     "type": "library",
     "description": "An alternative to PHPUnit's ReturnValueMap and ReturnCallback. A convenient solution to migrate from Prophecy.",
     "keywords": [
