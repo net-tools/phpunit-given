@@ -163,7 +163,7 @@ final class ReturnGiven implements Stub
      */
     public function invoke(Invocation $invocation): mixed
     {
-        $params = array_values($invocation->getParameters());
+        $params = array_values($invocation->parameters());
 
         foreach ($this->given as $i => $constraints) {
             $this->assertTermination($i);
