@@ -1,5 +1,5 @@
 {
-    "name": "olvlvl/phpunit-given",
+    "name": "nettools/phpunit-given",
     "type": "library",
     "description": "An alternative to PHPUnit's ReturnValueMap and ReturnCallback. A convenient solution to migrate from Prophecy.",
     "keywords": [
